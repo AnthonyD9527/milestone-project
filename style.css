@@ -1,0 +1,59 @@
+body{
+    background-color: rgb(189, 177, 177);
+}
+
+h1 {
+    position: relative;
+    color: aliceblue;
+    outline: auto 1px;
+    outline-color: black;
+    margin-right: 1400px;
+    height: 60px;
+    text-align: center;
+    margin-left: 250px;
+    font-size: 50px;
+}
+h2{
+    position: relative;
+    outline: auto 1px;
+    outline-color: black;
+    color: white;
+    margin-left: 1400px;
+    margin-right: 250px;
+    margin-top: 600px;
+    bottom: 650px;
+    right: 200px;
+    font-size: 50px;
+    text-align: center;
+}
+
+p{
+    color: blue;
+    outline: 1px solid red;
+}
+
+.h4{
+    position: relative;
+    color: rgb(112, 2, 238);
+    border-color: black;
+    bottom: 600px;
+    left: 420px;
+    padding: 5px;
+    font-size: 24px;
+}
+.player1 {
+    color: aqua;
+}
+
+h3{
+    position: relative;
+    border-color: rgb(11, 12, 12);
+    outline: 2px solid rgb(35, 36, 36);
+    bottom: 620px;
+    left: 238px;
+    height: 250px;
+    width: 450px;
+    font-size: 50px;
+    text-align: center;
+    
+}
