@@ -1,8 +1,8 @@
 # milestone-project
-for my milestone project im going to make a game called "Higher Number"
- a 2 player game in which whoever rolls the higher number wins the game.
- it will be best out of 1 
- game will reset when someone wins.
- a tie is possible if 2 same numbers are rolled 
- a tie also will reset the game.
- number range 1-10
+my milestone project will be tic tac toe
+
+instructions on how to play:
+using the mouse the first click will mark an O on the selected hash. Player 1 is O
+using the mouse the second click will mark an x on the selected hash. Player 2 is X
+the winner will be highlighted a color
+if a draw happens the game can no longer can be played at there is no winner. Refresh page to restart game.
