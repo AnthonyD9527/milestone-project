@@ -3,7 +3,10 @@ body{
     text-align: center;
     background-color: #B5AE70;
     font-size: 32;
-    
+
+}
+head{
+    color: #7A636B;
 }
 
 hr{
@@ -33,6 +36,7 @@ hr{
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .horizontal-line {
@@ -59,3 +63,16 @@ h2{
     flex: auto;
     color: #f1F4EC;
 }
+
+button{
+    background-color: black;
+    color: white;
+    height: 25px;
+    border-radius: 5px;
+    transition-duration: 0.4s;
+}
+
+button:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
