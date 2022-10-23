@@ -20,6 +20,7 @@ hr{
     width: 450px;
     height: 450px;
     border: 2px solid #762126;
+    cursor: pointer;
     
     
     margin: 0 auto;
